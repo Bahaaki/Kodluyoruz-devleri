@@ -1,0 +1,92 @@
+
+    body {
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    form {
+            width: 70%;
+            height: 100px;
+            background-size: 100% 100%;
+    }
+
+    .container {
+        width: 1700px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .img-box {
+            margin: 8px 0 1px 0;
+            width: 70%;
+            height:100px;
+            background-size: 100% 100%;
+           
+    }
+
+    .box1 {
+        background-color:aliceblue;
+    }
+
+    .box2 {
+        margin-top: 5px;
+    }
+
+    .box3 {
+        font-size: 20px;
+    }
+
+
+    .search {
+        width: 315px;
+    }
+
+    .card1 {
+        background-color: #7EE5DA;
+        width: 500px;
+        float: left;
+        font-size: 16px;
+        height: 90px;
+        padding-top: 20px;
+    }
+
+    .card1 a {
+        display: block;
+    }
+
+    .card2 {
+        background-color:#7EE5DA;
+        width: 294px;
+        float: left;
+        margin-right: 4px;
+        margin-left: 4px;
+        font-size: 13px;
+        height: 90px;
+        padding-top: 20px;
+    }
+
+    .card2 a {
+        display: block;
+    }
+
+    .card3 {
+        background-color: #7EE5DA;
+        width: 500px;
+        float: left;
+        font-size: 13px;
+        height: 90px;
+        padding-top: 20px;
+    }
+
+    .card3 p {
+        display: inline;
+    }
+
+    .card3 span {
+        display: block;
+    }
+
+    .box3 {
+        clear: both;
+        padding-top: 15px;
+        text-align: center;
+    }
